@@ -1,4 +1,3 @@
-#!/usr/bin/env python
 #!/usr/bin/python
 #    This is a component of AXIS, a front-end for LinuxCNC
 #    Copyright 2004, 2005, 2006 Jeff Epler <jepler@unpythonic.net> and

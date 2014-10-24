@@ -1,4 +1,4 @@
-#!/usr/bin/env python
+#!/usr/bin/python
 
 
 # Touchy is Copyright (c) 2009  Chris Radek <chris@timeguy.com>
